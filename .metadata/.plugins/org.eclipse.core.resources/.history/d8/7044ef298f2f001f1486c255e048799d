@@ -1,0 +1,22 @@
+package Dao;
+
+import java.util.List;
+
+import Interfaces.iUsuario;
+import Modelo.TblUsuario;
+
+public class TblUsuarioImp implements iUsuario {
+
+	@Override
+	public void RegistrarUsuario(TblUsuario usuario) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<TblUsuario> ListarUsuario() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

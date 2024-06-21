@@ -1,0 +1,25 @@
+package Dao;
+
+import java.util.List;
+
+import Interfaces.IProducto;
+import Modelo.TblProducto;
+
+
+public class TblProductoImp implements IProducto {
+
+	@Override
+	public void RegistrarProducto(TblProducto producto) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<TblProducto> ListarProducto() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+
+
+}

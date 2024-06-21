@@ -1,0 +1,4 @@
+127.0.0.1 - - [21/Jun/2024:00:29:13 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [21/Jun/2024:00:29:14 -0500] "GET /ProyectoMavenJpaLPII/WEB-INF/classes/Test/TestUsuario.java HTTP/1.1" 404 1000
+127.0.0.1 - - [21/Jun/2024:01:10:38 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [21/Jun/2024:01:10:38 -0500] "GET /ProyectoMavenJpaLPII/RegistrarProducto.jsp HTTP/1.1" 200 1059

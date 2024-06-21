@@ -1,0 +1,12 @@
+package Dao;
+
+import java.util.List;
+
+import Interfaces.IProducto;
+import Modelo.TblUsuario;
+
+public class TblProductoImp implements IProducto {
+	
+}
+
+}
